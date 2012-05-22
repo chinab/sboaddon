@@ -1,0 +1,7 @@
+[05/02/2012 11:36:53 AM] Chi Huong VNS: IP: remote.altech.vn:3390
+[05/02/2012 11:37:37 AM] Chi Huong VNS: User : vinasystems /PW:  vi3tn@m
+[05/02/2012 11:38:28 AM] Chi Huong VNS: SQL server :HCM-SQL01\sap
+[05/02/2012 11:38:36 AM] Chi Huong VNS:  PW: Alt3ch
+
+manager
+[05/02/2012 11:42:32 AM] Chi Huong VNS:  PW: 0000
